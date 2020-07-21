@@ -1,0 +1,5 @@
+{
+    "require": {
+        "echevarria/bitlyv4php": "dev-master"
+    }
+}
