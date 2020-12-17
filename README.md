@@ -4,7 +4,7 @@
   <li>Track victim location </li>
 </ul>
 
-<h3>How to use ?</h3>
+<h3>How to use without hosting ?</h3>
 <ol>
   <li>clone this tool in htdocs folder xampp instalation</li>
   <li>Make a Database in phpmyadmin and import sql file to new database </li>
